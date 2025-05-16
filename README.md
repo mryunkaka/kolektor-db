@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kolektor Database (Mata Elang)
 
 ## Latar Belakang
@@ -199,3 +200,6 @@ Kami menyambut kontribusi untuk perbaikan dan pengembangan Kolektor Database. Si
 Hak Cipta © 2025 PT Kolektor Indonesia. Hak cipta dilindungi undang-undang.
 
 Dikembangkan dengan ❤️ menggunakan Laravel 12 dan Filament 3.3
+=======
+# kolektor-db
+>>>>>>> 03ad615f2f009414e1179f92e6af3afd206628b3
